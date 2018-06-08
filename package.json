@@ -1,5 +1,5 @@
 {
-  "name": "ember-resize-udpated",
+  "name": "ember-resize-v2",
   "version": "1.0.0",
   "description": "Idiomatically handle window and view resizes in Ember.js",
   "directories": {
@@ -15,8 +15,8 @@
   "engines": {
     "node": "^4.5 || 6.* || >= 7.*"
   },
-  "repository": "https://github.com/mrfisher8432/ember-resize-udpated.git",
-  "homepage": "https://github.com/mrfisher8432/ember-resize-updated",
+  "repository": "https://github.com/mrfisher8432/ember-resize-v2.git",
+  "homepage": "https://github.com/mrfisher8432/ember-resize-v2",
   "author": "Michael Fisher <mrfisher@me.com>",
   "license": "MIT",
   "devDependencies": {
