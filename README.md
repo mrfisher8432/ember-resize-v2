@@ -1,4 +1,4 @@
-# Ember-resize
+# Ember-resize-v2
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/mike-north/ember-resize.svg)](https://greenkeeper.io/)
 
@@ -15,8 +15,8 @@ Respond to window and view resize events easily and reliably. Events are only fi
 
 ### Use
 
-* ember-cli < 0.2.3 `ember install:addon ember-resize`
-* ember-cli >= 0.2.3 `ember install ember-resize`
+* ember-cli < 0.2.3 `ember install:addon ember-resize-v2`
+* ember-cli >= 0.2.3 `ember install ember-resize-v2`
 
 
 ### Service: `Resize`
