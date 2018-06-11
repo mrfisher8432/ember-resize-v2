@@ -1,23 +1,10 @@
 # Ember-resize-v2
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/mike-north/ember-resize.svg)](https://greenkeeper.io/)
-
-<img align="right" src="http://i59.tinypic.com/fadijn.png">
-
-[![Build Status](https://travis-ci.org/mike-north/ember-resize.svg?branch=master)](https://travis-ci.org/mike-north/ember-resize)
-[![Code Climate](https://codeclimate.com/github/mike-north/ember-resize/badges/gpa.svg)](https://codeclimate.com/github/mike-north/ember-resize)
-[![npm version](https://badge.fury.io/js/ember-resize.svg)](http://badge.fury.io/js/ember-resize)
-[![Ember Observer Score](http://emberobserver.com/badges/ember-resize.svg)](http://emberobserver.com/addons/ember-resize)
-[![Dependency Status](https://david-dm.org/mike-north/ember-resize.svg)](https://david-dm.org/mike-north/ember-resize)
-[![devDependency Status](https://david-dm.org/mike-north/ember-resize/dev-status.svg)](https://david-dm.org/mike-north/ember-resize#info=devDependencies)
-
 Respond to window and view resize events easily and reliably. Events are only fired when dimensions actually change, and you may choose to respond to only width changes, only height changes, or changes to both.
 
 ### Use
 
-* ember-cli < 0.2.3 `ember install:addon ember-resize-v2`
-* ember-cli >= 0.2.3 `ember install ember-resize-v2`
-
+`npm install ember-resize-v2`
 
 ### Service: `Resize`
 
@@ -84,7 +71,6 @@ module.exports = function(environment) {
 
 * `git clone` this repository
 * `npm install`
-* `bower install`
 
 ## Running
 
@@ -101,5 +87,3 @@ module.exports = function(environment) {
 * `ember build`
 
 For more information on using ember-cli, visit [http://www.ember-cli.com/](http://www.ember-cli.com/).
-
-![Analytics](https://ga-beacon.appspot.com/UA-66610985-1/mike-north/ember-resize/readme)
