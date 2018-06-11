@@ -1,1 +1,1 @@
-export { default } from 'ember-resize/mixins/resize-aware';
+export { default } from 'ember-resize-v2/mixins/resize-aware';
