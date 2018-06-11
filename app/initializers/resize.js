@@ -1,4 +1,4 @@
-import ResizeService from 'ember-resize/services/resize';
+import ResizeService from 'ember-resize-v2/services/resize';
 import config from '../config/environment';
 
 export function initialize() {
